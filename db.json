@@ -1,0 +1,15 @@
+{
+    "chips":[
+        {"id":1,"name":"BBQ","img":"https://i.ibb.co/zsRKz5x/black.png"},
+        {"id":2,"name":"Classic","img":"https://i.ibb.co/0nMyX1D/gele.png"},
+        {"id":3,"name":"Sour Cream & Onion","img":"https://i.ibb.co/58gfxpk/groen.jpg"},
+        {"id":4,"name":"Chile Limon","img":"https://i.ibb.co/DYBGfFm/roze.gif"},
+        {"id":5,"name":"Simple Classic Salted","img":"https://i.ibb.co/5GqSXqX/yellow-simple.jpg"},
+        {"id":6,"name":"Naturel","img":"https://i.ibb.co/ck8BShF/chips-lays-naturel-175gr-1.jpg"}
+    ]
+}
+
+
+
+
+
